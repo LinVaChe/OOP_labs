@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskOOPLab2", "TaskOOPLab2\TaskOOPLab2.csproj", "{ED64B63E-CE83-4D1C-81CB-9916F0B9473B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED64B63E-CE83-4D1C-81CB-9916F0B9473B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED64B63E-CE83-4D1C-81CB-9916F0B9473B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED64B63E-CE83-4D1C-81CB-9916F0B9473B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED64B63E-CE83-4D1C-81CB-9916F0B9473B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B2B55A5-E9BF-4AB1-AAFD-5A80B09D49E1}
+	EndGlobalSection
+EndGlobal
